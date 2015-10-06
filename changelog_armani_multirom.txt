@@ -1,0 +1,8 @@
+04/09/2015-MultiROM v32
+==========
+* Initial stable release for armani
+
+25/09/2015-MultiROM v32a
+==========
+* Fix white noise while booting secondary ROMs
+* Added new updated KK and LP kexec patched kernels

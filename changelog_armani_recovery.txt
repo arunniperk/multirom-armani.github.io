@@ -1,0 +1,8 @@
+04/09/2015
+==========
+* Initial stable release for armani
+* MultiROM TWRP 2.8.7
+
+25/09/2015
+==========
+* Upstream changes
